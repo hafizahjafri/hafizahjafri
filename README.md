@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Networking Projects:</h2>
 
 - <b>Computer Network Projetcs (group projects)</b>
-  - [Network Infrastructure Design and Implementation for Faculty of Computing]([https://github.com/hafizahjafri/ApplicationDevelopmentProject.git](https://github.com/hafizahjafri/ComputerNetworkProject))
+  - [Network Infrastructure Design and Implementation for Faculty of Computing](https://github.com/hafizahjafri/ComputerNetworkProject)
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
