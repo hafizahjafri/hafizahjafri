@@ -12,40 +12,59 @@
 - <b>Application Development Projects (group projects)</b>
   - [UTM Gatherly Website](https://github.com/hafizahjafri/ApplicationDevelopmentProject.git)
 
-<h2>Certifications</h2>
+<h2>📚 Networking & Cybersecurity Journey</h2>
 
-- <b>Introduction to Network</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
- 
-- <b>Introduction to Cybersecurity</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Cybersecurity)
+Welcome to the summary of my journey through Cisco NetAcad courses!  
+These courses helped me build a strong foundation in networking and cybersecurity concepts with hands-on skills.
 
-- <b>Introduction to Data Science</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Data-Science)
+## 🚀 What I Learned
 
-- <b>Introduction to IoT</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+### CCNA: Introduction to Networks
+- Grasped the basics of how networks operate, including devices, protocols, and architecture
+- Understood the OSI and TCP/IP models and their real-world applications
+- Explored key networking devices like routers, switches, access points, and how cabling connects everything
+- Mastered IPv4 and IPv6 addressing and performed subnetting
+- Learned how Ethernet works, MAC addresses, and how switches manage network traffic
+- Configured simple static routing to move data between networks
+- Worked with protocols like ARP, ICMP, DHCP, DNS, and HTTP
+- Built awareness around basic network security practices and threats
+- Designed, configured, and troubleshooted small wired and wireless networks
+- Completed hands-on labs and Packet Tracer simulations
+- 🎓 [CCNA: Introduction to Networks Certificate](#)  
+- 🛡️ [CCNA: Introduction to Networks Badge](#)
 
-- <b>Introduction to Modern AI</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
- 
-- <b>Ethical Hacker</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+### Introduction to Cybersecurity
+- Understood the basics of cybersecurity principles, ethics, and laws
+- Explored different types of cyber threats, vulnerabilities, and attacks
+- Learned about the importance of confidentiality, integrity, and availability (CIA triad)
+- Discovered career paths in cybersecurity and skills needed in the field
+- Gained insight into basic protection mechanisms like firewalls, antivirus software, and encryption
+- Developed an awareness of how to secure personal and organizational data
 
-- <b>Enterprise Networking, Security, and Automation</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
- 
-- <b>Linux Essentials</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+## 🎯 Skills Highlights
 
-- <b>Linux Unhatched</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
- 
-- <b>Python Essentials 1</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+- Networking Fundamentals (OSI/TCP-IP Models)
+- Device Configuration (Switches, Routers)
+- IP Addressing and Subnetting
+- Static Routing Basics
+- Protocol Analysis (ARP, ICMP, DHCP, DNS, HTTP)
+- Cybersecurity Essentials (CIA Triad, Threat Awareness)
+- Basic Cyber Defense Mechanisms (Firewalls, Encryption)
+- Hands-on Simulation using Cisco Packet Tracer
 
-- <b>Python Essentials 2</b>
-  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+## 🏆 Certificates & Badges
+
+You can preview my official certificates and badges here:
+
+- 🎓 [CCNA: Introduction to Networks Certificate](#)  
+- 🛡️ [CCNA: Introduction to Networks Badge](#)
+- 🎓 [Introduction to Cybersecurity Certificate](#)  
+- 🛡️ [Introduction to Cybersecurity Badge](#)
+
+---
+
+Thanks for checking out my learning journey!  
+Excited to continue growing and exploring more in Networking and Cybersecurity!
 
 
 
