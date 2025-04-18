@@ -2,6 +2,9 @@
  
 <h2>👨‍💻 Computer Networking Projects:</h2>
 
+- <b>Computer Network Projetcs (group projects)</b>
+  - [Network Infrastructure Design and Implementation for Faculty of Computing](https://github.com/hafizahjafri/ApplicationDevelopmentProject.git)
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
