@@ -16,6 +16,36 @@
 
 - <b>Introduction to Network</b>
   - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+ 
+- <b>Introduction to Cybersecurity</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Cybersecurity)
+
+- <b>Introduction to Data Science</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Data-Science)
+
+- <b>Introduction to IoT</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+
+- <b>Introduction to Modern AI</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+ 
+- <b>Ethical Hacker</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+
+- <b>Enterprise Networking, Security, and Automation</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+ 
+- <b>Linux Essentials</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+
+- <b>Linux Unhatched</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+ 
+- <b>Python Essentials 1</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+
+- <b>Python Essentials 2</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
 
 
 
