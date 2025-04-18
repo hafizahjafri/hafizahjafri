@@ -75,7 +75,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Network security fundamentals and secure device configuration
 - Introduction to network automation using Python and APIs
 - Practical labs and Packet Tracer simulations
-- 🎓 [CCNA: Enterprise Networking, Security, and Automation Certificate](#)  
+- 🎓 [CCNA: Enterprise Networking, Security, and Automation Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/_certificate_hafizahjafri19-gmail-com_927eefca-97d8-45a4-a4ec-8b9b6bc750b8.pdf)  
 - 🛡️ [CCNA: ENSA Badge](#)
 
 ## 🎯 Skills Highlights
