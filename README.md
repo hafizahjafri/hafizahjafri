@@ -14,6 +14,9 @@
 
 <h2>Certifications</h2>
 
+- <b>Introduction to Network</b>
+  - [certificate & badge](https://github.com/hafizahjafri/Introduction-to-Networks)
+
 
 
 
