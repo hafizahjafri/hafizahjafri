@@ -26,7 +26,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Ethernet, switching, and static routing
 - Key protocols: ARP, ICMP, DHCP, DNS, HTTP
 - Hands-on network design and troubleshooting using Packet Tracer
-- 🎓 [CCNA: Introduction to Networks Certificate](#)  
+- 🎓 [CCNA: Introduction to Networks Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20networks.pdf)  
 - 🛡️ [CCNA: Introduction to Networks Badge](#)
   
 ### Introduction to Cybersecurity
@@ -34,7 +34,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Cyber threats, vulnerabilities, and defenses
 - Cybersecurity laws, ethics, and best practices
 - Exploring cybersecurity careers and the industry landscape
-- 🎓 [Introduction to Cybersecurity Certificate](#)  
+- 🎓 [Introduction to Cybersecurity Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20cybersecurity.pdf)  
 - 🛡️ [Introduction to Cybersecurity Badge](#)
   
 ### Introduction to Data Science
@@ -42,7 +42,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Basics of data visualization and storytelling
 - Introduction to data-driven decision making
 - Applications of data science in the real world
-- 🎓 [Introduction to Data Science Certificate](#)  
+- 🎓 [Introduction to Data Science Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20data%20science.pdf)  
 - 🛡️ [Introduction to Data Science Badge](#)
   
 ### Introduction to Internet of Things (IoT)
@@ -50,7 +50,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Sensors, actuators, and IoT networks
 - IoT applications across industries (smart cities, healthcare, agriculture)
 - Basic IoT security concepts
-- 🎓 [Introduction to IoT Certificate](#)  
+- 🎓 [Introduction to IoT Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20IoT%20and%20digital%20transformation.pdf)  
 - 🛡️ [Introduction to IoT Badge](#)
   
 ### Introduction to Modern AI
@@ -58,7 +58,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Practical examples of AI in different industries
 - Ethical considerations in AI systems
 - Real-world challenges and future trends in AI
-- 🎓 [Introduction to Modern AI Certificate](#)  
+- 🎓 [Introduction to Modern AI Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20modern%20AI.pdf)  
 - 🛡️ [Introduction to Modern AI Badge](#)
   
 ### Ethical Hacker Course
@@ -66,7 +66,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Understanding vulnerabilities, exploits, and common attack techniques
 - Legal and ethical responsibilities of ethical hackers
 - Hands-on introduction to reconnaissance and system testing
-- 🎓 [Ethical Hacker Course Certificate](#)  
+- 🎓 [Ethical Hacker Course Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/ethical%20attacker.pdf)  
 - 🛡️ [Ethical Hacker Badge](#)
   
 ### CCNA: Enterprise Networking, Security, and Automation
