@@ -27,7 +27,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Key protocols: ARP, ICMP, DHCP, DNS, HTTP
 - Hands-on network design and troubleshooting using Packet Tracer
 - 🎓 [CCNA: Introduction to Networks Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20networks.pdf)  
-- 🛡️ [CCNA: Introduction to Networks Badge](#)
+- 🛡️ [CCNA: Introduction to Networks Badge](Badges/ccna-introduction-to-networks.png)
   
 ### Introduction to Cybersecurity
 - Core cybersecurity principles: confidentiality, integrity, availability (CIA triad)
@@ -35,7 +35,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Cybersecurity laws, ethics, and best practices
 - Exploring cybersecurity careers and the industry landscape
 - 🎓 [Introduction to Cybersecurity Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20cybersecurity.pdf)  
-- 🛡️ [Introduction to Cybersecurity Badge](#)
+- 🛡️ [Introduction to Cybersecurity Badge](Badges/introduction-to-cybersecurity.png)
   
 ### Introduction to Data Science
 - Data science fundamentals: data types, collection, and analysis
@@ -43,7 +43,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Introduction to data-driven decision making
 - Applications of data science in the real world
 - 🎓 [Introduction to Data Science Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20data%20science.pdf)  
-- 🛡️ [Introduction to Data Science Badge](#)
+- 🛡️ [Introduction to Data Science Badge](Badges/introduction-to-data-science.png)
   
 ### Introduction to Internet of Things (IoT)
 - Understanding IoT ecosystems and architectures
@@ -51,7 +51,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - IoT applications across industries (smart cities, healthcare, agriculture)
 - Basic IoT security concepts
 - 🎓 [Introduction to IoT Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20IoT%20and%20digital%20transformation.pdf)  
-- 🛡️ [Introduction to IoT Badge](#)
+- 🛡️ [Introduction to IoT Badge](Badges/introduction-to-iot.png)
   
 ### Introduction to Modern AI
 - AI fundamentals: machine learning, neural networks, deep learning
@@ -59,7 +59,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Ethical considerations in AI systems
 - Real-world challenges and future trends in AI
 - 🎓 [Introduction to Modern AI Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/introduction%20to%20modern%20AI.pdf)  
-- 🛡️ [Introduction to Modern AI Badge](#)
+- 🛡️ [Introduction to Modern AI Badge](Badges/introduction-to-modern-ai.png)
   
 ### Ethical Hacker Course
 - Basics of ethical hacking, penetration testing, and cybersecurity defenses
@@ -67,7 +67,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Legal and ethical responsibilities of ethical hackers
 - Hands-on introduction to reconnaissance and system testing
 - 🎓 [Ethical Hacker Course Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/ethical%20attacker.pdf)  
-- 🛡️ [Ethical Hacker Badge](#)
+- 🛡️ [Ethical Hacker Badge](Badges/ethical-hacker.png)
   
 ### CCNA: Enterprise Networking, Security, and Automation
 - Advanced enterprise networking concepts and infrastructure
@@ -76,7 +76,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Introduction to network automation using Python and APIs
 - Practical labs and Packet Tracer simulations
 - 🎓 [CCNA: Enterprise Networking, Security, and Automation Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/_certificate_hafizahjafri19-gmail-com_927eefca-97d8-45a4-a4ec-8b9b6bc750b8.pdf)  
-- 🛡️ [CCNA: ENSA Badge](#)
+- 🛡️ [CCNA: ENSA Badge](Badges/ccna-enterprise-networking-security-and-automation.png)
 
 ### Linux Essentials
 - Introduction to Linux operating systems and open-source concepts
@@ -86,7 +86,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Managing software and package installation on Linux systems
 - Importance of Linux in servers, networking, and cybersecurity fields
 - 🎓 [Linux Essentials Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/_certificate_hafizahjafri19-gmail-com_f1c1f2be-1408-4189-a348-1db414e4958a.pdf)  
-- 🛡️ [Linux Essentials Badge](#)
+- 🛡️ [Linux Essentials Badge](Badges/linux-essentials.png)
 
 ## 🎯 Skills Highlights
 
