@@ -85,7 +85,7 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - Introduction to shell scripting and basic automation
 - Managing software and package installation on Linux systems
 - Importance of Linux in servers, networking, and cybersecurity fields
-- 🎓 [Linux Essentials Certificate](#)  
+- 🎓 [Linux Essentials Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/_certificate_hafizahjafri19-gmail-com_f1c1f2be-1408-4189-a348-1db414e4958a.pdf)  
 - 🛡️ [Linux Essentials Badge](#)
 
 ## 🎯 Skills Highlights
