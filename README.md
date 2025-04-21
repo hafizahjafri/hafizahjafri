@@ -78,6 +78,16 @@ These courses helped me build a strong foundation in networking and cybersecurit
 - 🎓 [CCNA: Enterprise Networking, Security, and Automation Certificate](https://github.com/hafizahjafri/Certificates-Badges/blob/main/Certificates/_certificate_hafizahjafri19-gmail-com_927eefca-97d8-45a4-a4ec-8b9b6bc750b8.pdf)  
 - 🛡️ [CCNA: ENSA Badge](#)
 
+### Linux Essentials
+- Introduction to Linux operating systems and open-source concepts
+- Basic Linux command line skills (navigating files, directories, permissions)
+- Understanding users, groups, and file ownership
+- Introduction to shell scripting and basic automation
+- Managing software and package installation on Linux systems
+- Importance of Linux in servers, networking, and cybersecurity fields
+- 🎓 [Linux Essentials Certificate](#)  
+- 🛡️ [Linux Essentials Badge](#)
+
 ## 🎯 Skills Highlights
 
 - Networking Fundamentals (Layered Models, Device Configurations)
